@@ -4,3 +4,6 @@ tolu.addEventListener('click', function(){
    
    maju.classList.toggle("slide");
 }); 
+
+
+jkhgciuryjuhgi;ubhoih
